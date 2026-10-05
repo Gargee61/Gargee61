@@ -5,7 +5,7 @@
 
 - 💬 Ask me about : **Java, JavaScript, React, Node.js, MongoDB, REST APIs, Git, and Google Cloud.**
 
-- 📄 Know about my experiences :  [file:///D:/Downloads/Gargee_Badgaiyan_ATS_Resume.pdf](file:///D:/Downloads/Gargee_Badgaiyan_ATS_Resume.pdf)
+- 📄 Know about my experiences :  file:///D:/Downloads/Gargee_Resume.pdf
 
 - ⚡ Fun fact : **Building, learning, and improving—one commit at a time.**
 
